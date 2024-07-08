@@ -41,7 +41,7 @@ nav {
   width: 100%;
 }
 
-nav > div {
+nav>div {
   padding: 0% 5%;
 }
 
@@ -52,7 +52,6 @@ nav img {
 #cart {
   font-weight: bold;
   align-items: center;
-  cursor: pointer;
 }
 
 header {
@@ -176,3 +175,4 @@ h2 {
     justify-content: center;
   }
 }
+
